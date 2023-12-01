@@ -1,0 +1,1 @@
+My first ever Rust program :) just learning how to Hello World before shit gets complicated.
